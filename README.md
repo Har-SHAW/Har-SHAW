@@ -1,7 +1,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Hi, I'am Gadireddy Harsha vardhan Reddy
+# Hi, I'am Gadireddy Harsha vardhan Reddy
 
 ## I'am an undergraduate student from Hyderabad, India, Currently a final year student at B V Raju Institute of Technology .
 ## Full Stack Developer 👨‍💻
