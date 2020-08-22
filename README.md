@@ -18,18 +18,15 @@
 - 📫 How to reach me: 8888harsha4444@gmail.com
 
 ```javascript
-const ashraf = {
+const Harsha = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+        backEnd: ["nodejs", "express", "spring boot"],
+        fronEnd: ["reactjs"],
+        mobileApp: ["flutter","react native"],
+        database: ["mySql","mongoDB"],
+        misc: ["Firebase"]
+    }
 }
 ```
