@@ -21,9 +21,10 @@
 const Harsha = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
+    languages: ["c/c++", "java", "javascript", "python"],
     technologies:{
         backEnd: ["nodejs", "express", "spring boot"],
-        fronEnd: ["reactjs"],
+        frontEnd: ["reactjs"],
         mobileApp: ["flutter","react native"],
         database: ["mySql","mongoDB"],
         misc: ["Firebase"]
