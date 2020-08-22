@@ -3,8 +3,8 @@
 
 # Hi, I'am Gadireddy Harsha vardhan Reddy
 
-## I'am an undergraduate student from Hyderabad, India, Currently a final year student at B V Raju Institute of Technology .
-## Full Stack Developer 👨‍💻
+### I'am an undergraduate student from Hyderabad, India, Currently a final year student at B V Raju Institute of Technology .
+### Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
 [![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
