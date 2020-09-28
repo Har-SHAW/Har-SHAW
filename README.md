@@ -20,14 +20,14 @@
 ```javascript
 const Harsha = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    languages: ["c/c++", "java", "javascript", "python"],
+    askMeAbout: ["App dev", "Web dev", "Tech"],
+    languages: ["C/C++", "Java", "JavaScript", "Python"],
     technologies:{
-        backEnd: ["nodejs", "express", "spring boot"],
-        frontEnd: ["reactjs"],
-        mobileApp: ["flutter","react native"],
-        database: ["mySql","mongoDB"],
-        misc: ["Firebase"]
+        backEnd: ["Node.js", "Express.js", "Spring Boot"],
+        frontEnd: ["React.js", "HTML", "CSS"],
+        mobileApp: ["Flutter", "React Native"],
+        database: ["MySql", "MongoDB"],
+        misc: ["Firebase", "AWS"]
     }
 }
 ```
