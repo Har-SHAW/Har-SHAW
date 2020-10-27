@@ -22,7 +22,7 @@ const Harsha = {
     pronouns: "He" | "Him",
     askMeAbout: ["App dev", "Web dev", "Tech"],
     languages: ["C/C++", "Java", "JavaScript", "Python"],
-    technologies:{
+    technologies: {
         backEnd: ["Node.js", "Express.js", "Spring Boot"],
         frontEnd: ["React.js", "HTML", "CSS"],
         mobileApp: ["Flutter", "React Native"],
