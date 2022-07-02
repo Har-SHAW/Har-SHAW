@@ -7,7 +7,7 @@
 ### Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Harsha%20vardhan%20Reddy%20Gadireddy-blue)](https://www.linkedin.com/in/harsha-vardhan-reddy-gadireddy-353913192/)
-[![](https://img.shields.io/badge/Gmail-8888harsha4444%40gmail.com-red)](mailto:8888harsha4444@gmail.com)
+[![](https://img.shields.io/badge/Gmail-harshavardhan.gadireddy%40gmail.com-red)](mailto:harshavardhan.gadireddy@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Web development and Application development
 - 🌱 I’m currently exploring depth in Web development
-- 📫 How to reach me: 8888harsha4444@gmail.com
+- 📫 How to reach me: harshavardhan.gadireddy@gmail.com
 
 ```javascript
 const Harsha = {
