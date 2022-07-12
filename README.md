@@ -6,7 +6,7 @@
 ### I'am an undergraduate student from Hyderabad, India, Currently a final year student at B V Raju Institute of Technology .
 ### Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-Harsha%20vardhan%20Reddy%20Gadireddy-blue)](https://www.linkedin.com/in/harsha-vardhan-reddy-gadireddy-353913192/)
+[![](https://img.shields.io/badge/LinkedIn-Harsha%20vardhan%20Reddy%20Gadireddy-blue)](https://www.linkedin.com/in/harsha-vardhan-reddy-gadireddy/)
 [![](https://img.shields.io/badge/Gmail-harshavardhan.gadireddy%40gmail.com-red)](mailto:harshavardhan.gadireddy@gmail.com)
 
 
