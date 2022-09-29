@@ -1,20 +1,20 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-# Hi, I'am Harshavardhan Reddy Gadireddy
+# Hi, I am Harshavardhan Reddy Gadireddy
 
-### I'am a Masters student at Florida State University in Computer Science.
+### I am a Masters student at Florida State University in Computer Science.
 ### Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Harshavardhan%20Reddy%20Gadireddy-blue)](https://www.linkedin.com/in/harsha-vardhan-reddy-gadireddy/)
-[![](https://img.shields.io/badge/Gmail-harshavardhan.gadireddy%40gmail.com-red)](mailto:harshavardhan.gadireddy@gmail.com)
+[![](https://img.shields.io/badge/GMail-harshavardhan.gadireddy%40gmail.com-red)](mailto:harshavardhan.gadireddy@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-- 🔭 I’m currently working on Web development and Application development
-- 🌱 I’m currently exploring depth in Web development
+- 🔭 Currently working on Web development and Application development
+- 🌱 Currently exploring depth in Cyber Security and Technologies
 - 📫 How to reach me: harshavardhan.gadireddy@gmail.com
 
 ```javascript
