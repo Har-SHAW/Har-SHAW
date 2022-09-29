@@ -1,7 +1,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-# Hi, I'am Gadireddy Harsha vardhan Reddy
+# Hi, I'am Harshavardhan Reddy Gadireddy
 
 ### I'am an undergraduate student from Hyderabad, India, Currently a final year student at B V Raju Institute of Technology .
 ### Full Stack Developer 👨‍💻
@@ -25,9 +25,9 @@ const Harsha = {
     technologies: {
         backEnd: ["Node.js", "Express.js", "Spring Boot"],
         frontEnd: ["React.js", "HTML", "CSS"],
-        mobileApp: ["Flutter", "React Native"],
+        mobileApp: ["Flutter", "React Native", "Android", "iOS"],
         database: ["MySql", "MongoDB"],
-        misc: ["Firebase", "AWS"]
+        misc: ["Firebase", "AWS", "GCP"]
     }
 }
 ```
