@@ -21,12 +21,13 @@
 const Harsha = {
     pronouns: "He" | "Him",
     askMeAbout: ["App dev", "Web dev", "Tech"],
-    languages: ["C/C++", "Java", "JavaScript", "Python"],
+    languages: ["C/C++", "Java", "JavaScript", "Python", "Dart"],
     technologies: {
-        backEnd: ["Node.js", "Express.js", "Spring Boot"],
+        backEnd: ["Fast API", "Express.js", "Spring Boot"],
         frontEnd: ["React.js", "HTML", "CSS"],
         mobileApp: ["Flutter", "React Native", "Android", "iOS"],
         database: ["MySql", "MongoDB"],
+        tools: ["Ghidra", "IDA Pro", "Wireshark", "Burp Suite"]
         misc: ["Firebase", "AWS", "GCP"]
     }
 }
