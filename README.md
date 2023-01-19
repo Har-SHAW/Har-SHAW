@@ -1,5 +1,5 @@
 
-<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://ih1.redbubble.net/image.1766319470.4695/st,small,507x507-pad,600x600,f8f8f8.jpg)" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://ih1.redbubble.net/image.1766319470.4695/st,small,507x507-pad,600x600,f8f8f8.jpg" width="230">
 
 # Hi, I am Harshavardhan Reddy Gadireddy
 
