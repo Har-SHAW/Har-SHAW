@@ -27,8 +27,9 @@ const Harsha = {
         frontEnd: ["React.js", "HTML", "CSS"],
         mobileApp: ["Flutter", "React Native", "Android", "iOS"],
         database: ["MySql", "MongoDB"],
-        tools: ["Ghidra", "IDA Pro", "Wireshark", "Burp Suite"]
-        misc: ["Firebase", "AWS", "GCP"]
+        tools: ["Ghidra", "IDA Pro", "Wireshark", "Burp Suite"],
+        misc: ["Firebase", "AWS", "GCP"],
+        os: ["Linux", "Windows", "macOS"]
     }
 }
 ```
