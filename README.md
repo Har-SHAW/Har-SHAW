@@ -4,6 +4,8 @@
 # Hi, I am Harshavardhan Reddy Gadireddy
 
 ### Master of Science student at Florida State University in Computer Science.
+<br/>
+<br/>
 
 [![](https://img.shields.io/badge/LinkedIn-Harshavardhan%20Reddy%20Gadireddy-blue)](https://www.linkedin.com/in/harsha-vardhan-reddy-gadireddy/)
 [![](https://img.shields.io/badge/GMail-harshavardhan.gadireddy%40gmail.com-red)](mailto:harshavardhan.gadireddy@gmail.com)
