@@ -3,7 +3,7 @@
 
 # Hi, I am Harshavardhan Reddy Gadireddy
 
-### I am a Masters student at Florida State University in Computer Science.
+### Master of Science student at Florida State University in Computer Science.
 ### Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Harshavardhan%20Reddy%20Gadireddy-blue)](https://www.linkedin.com/in/harsha-vardhan-reddy-gadireddy/)
